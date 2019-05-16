@@ -38,4 +38,10 @@ print(jam[1:4]) #index 1에서 3까지
 -sort 정렬
 list이름.sort()
 
+-count 세기
+list이름.count(찾고자하는 원소)
+
+
+
+
 
